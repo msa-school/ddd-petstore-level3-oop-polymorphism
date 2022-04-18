@@ -8,10 +8,9 @@ public class PetstoreApplication {
 
 	public static void main(String[] args) {
 
-		Pet dog = new Pet();
+		Pet dog = new Dog();
 		dog.appearance = 0;
 		dog.energy = 0;
-		dog.type = "Dog";
 
 		System.out.println(dog.speak());
 

@@ -3,7 +3,6 @@ package com.demo.petstore;
 public abstract class Pet {
     int appearance;
     int energy;
-    String type;
 
     public abstract String speak();
 
