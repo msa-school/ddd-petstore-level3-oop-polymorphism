@@ -14,11 +14,12 @@ mvn spring-boot:run
 - Cat과 Dog 의 공통된 속성과 행위는 Pet 에서 관리될 수 있도록 함
 
 ## 공통된 속성을 Pet 으로 구현
+- Pet.java: https://github.com/msa-school/ddd-petstore-level3-oop-polymorphism/blob/main/src/main/java/com/demo/petstore/Pet.java
 
 
 ## Cat 과 Dog 에 각각의 특성을 구현
-```
-```
+- Cat.java: https://github.com/msa-school/ddd-petstore-level3-oop-polymorphism/blob/main/src/main/java/com/demo/petstore/Cat.java
+- Dog.java: https://github.com/msa-school/ddd-petstore-level3-oop-polymorphism/blob/main/src/main/java/com/demo/petstore/Dog.java
 
 ## 다음:  문제 영역의 확대 (요구사항의 확대)
 
