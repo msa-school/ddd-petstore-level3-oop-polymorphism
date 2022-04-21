@@ -22,5 +22,5 @@ mvn spring-boot:run
 - Cat.java: https://github.com/msa-school/ddd-petstore-level3-oop-polymorphism/blob/main/src/main/java/com/demo/petstore/Cat.java
 - Dog.java: https://github.com/msa-school/ddd-petstore-level3-oop-polymorphism/blob/main/src/main/java/com/demo/petstore/Dog.java
 
-## 다음:  문제 영역의 확대 (요구사항의 확대)
+## 다음:  인프라와 도메인의 분리
 - https://github.com/msa-school/ddd-petstore-level4-infra-coupled
